@@ -1,3 +1,1 @@
-qwerty
-
-uiop
+readme
